@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_02_01_dogs-sitting_sad.wav
+
+MFCCs: (13, 351)
+Pitch: (351,)
+Intensity: (179380,)
+Spectral Centroid: (1, 351)
+HNR: (179380,)
+Sampling Rate: 48000
+

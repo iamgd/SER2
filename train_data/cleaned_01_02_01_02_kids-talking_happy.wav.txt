@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_02_01_02_kids-talking_happy.wav
+
+MFCCs: (13, 420)
+Pitch: (420,)
+Intensity: (214614,)
+Spectral Centroid: (1, 420)
+HNR: (214614,)
+Sampling Rate: 48000
+

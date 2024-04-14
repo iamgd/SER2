@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_02_02_kids-talking_ps.wav
+
+MFCCs: (13, 335)
+Pitch: (335,)
+Intensity: (171371,)
+Spectral Centroid: (1, 335)
+HNR: (171371,)
+Sampling Rate: 48000
+

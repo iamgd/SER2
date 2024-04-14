@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-02-04-02-02-02-01_sad.wav
+
+MFCCs: (13, 435)
+Pitch: (435,)
+Intensity: (222622,)
+Spectral Centroid: (1, 435)
+HNR: (222622,)
+Sampling Rate: 48000
+

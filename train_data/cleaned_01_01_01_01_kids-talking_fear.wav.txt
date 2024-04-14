@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_01_kids-talking_fear.wav
+
+MFCCs: (13, 345)
+Pitch: (345,)
+Intensity: (176176,)
+Spectral Centroid: (1, 345)
+HNR: (176176,)
+Sampling Rate: 48000
+

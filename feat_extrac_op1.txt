@@ -1,0 +1,1242 @@
+Features for output1\cleaned_01_01_01_01_dogs-sitting_disgust.wav
+
+MFCCs: (13, 366)
+Pitch: (366,)
+Intensity: (187387,)
+Spectral Centroid: (1, 366)
+HNR: (187387,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_dogs-sitting_fear.wav
+
+MFCCs: (13, 323)
+Pitch: (323,)
+Intensity: (164965,)
+Spectral Centroid: (1, 323)
+HNR: (164965,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_dogs-sitting_neutral.wav
+
+MFCCs: (13, 307)
+Pitch: (307,)
+Intensity: (156956,)
+Spectral Centroid: (1, 307)
+HNR: (156956,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_dogs-sitting_ps.wav
+
+MFCCs: (13, 332)
+Pitch: (332,)
+Intensity: (169770,)
+Spectral Centroid: (1, 332)
+HNR: (169770,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_dogs-sitting_sad.wav
+
+MFCCs: (13, 329)
+Pitch: (329,)
+Intensity: (168168,)
+Spectral Centroid: (1, 329)
+HNR: (168168,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_angry.wav
+
+MFCCs: (13, 363)
+Pitch: (363,)
+Intensity: (185786,)
+Spectral Centroid: (1, 363)
+HNR: (185786,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_disgust.wav
+
+MFCCs: (13, 363)
+Pitch: (363,)
+Intensity: (185785,)
+Spectral Centroid: (1, 363)
+HNR: (185785,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_fear.wav
+
+MFCCs: (13, 345)
+Pitch: (345,)
+Intensity: (176176,)
+Spectral Centroid: (1, 345)
+HNR: (176176,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_happy.wav
+
+MFCCs: (13, 326)
+Pitch: (326,)
+Intensity: (166567,)
+Spectral Centroid: (1, 326)
+HNR: (166567,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_neutral.wav
+
+MFCCs: (13, 310)
+Pitch: (310,)
+Intensity: (158558,)
+Spectral Centroid: (1, 310)
+HNR: (158558,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_ps.wav
+
+MFCCs: (13, 320)
+Pitch: (320,)
+Intensity: (163363,)
+Spectral Centroid: (1, 320)
+HNR: (163363,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_01_kids-talking_sad.wav
+
+MFCCs: (13, 360)
+Pitch: (360,)
+Intensity: (184184,)
+Spectral Centroid: (1, 360)
+HNR: (184184,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_angry.wav
+
+MFCCs: (13, 351)
+Pitch: (351,)
+Intensity: (179379,)
+Spectral Centroid: (1, 351)
+HNR: (179379,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_disgust.wav
+
+MFCCs: (13, 360)
+Pitch: (360,)
+Intensity: (184184,)
+Spectral Centroid: (1, 360)
+HNR: (184184,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_fear.wav
+
+MFCCs: (13, 348)
+Pitch: (348,)
+Intensity: (177777,)
+Spectral Centroid: (1, 348)
+HNR: (177777,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_happy.wav
+
+MFCCs: (13, 348)
+Pitch: (348,)
+Intensity: (177778,)
+Spectral Centroid: (1, 348)
+HNR: (177778,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_neutral.wav
+
+MFCCs: (13, 298)
+Pitch: (298,)
+Intensity: (152152,)
+Spectral Centroid: (1, 298)
+HNR: (152152,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_ps.wav
+
+MFCCs: (13, 307)
+Pitch: (307,)
+Intensity: (156956,)
+Spectral Centroid: (1, 307)
+HNR: (156956,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_dogs-sitting_sad.wav
+
+MFCCs: (13, 316)
+Pitch: (316,)
+Intensity: (161762,)
+Spectral Centroid: (1, 316)
+HNR: (161762,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_angry.wav
+
+MFCCs: (13, 370)
+Pitch: (370,)
+Intensity: (188989,)
+Spectral Centroid: (1, 370)
+HNR: (188989,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_disgust.wav
+
+MFCCs: (13, 366)
+Pitch: (366,)
+Intensity: (187387,)
+Spectral Centroid: (1, 366)
+HNR: (187387,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_fear.wav
+
+MFCCs: (13, 341)
+Pitch: (341,)
+Intensity: (174575,)
+Spectral Centroid: (1, 341)
+HNR: (174575,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_happy.wav
+
+MFCCs: (13, 326)
+Pitch: (326,)
+Intensity: (166566,)
+Spectral Centroid: (1, 326)
+HNR: (166566,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_neutral.wav
+
+MFCCs: (13, 313)
+Pitch: (313,)
+Intensity: (160160,)
+Spectral Centroid: (1, 313)
+HNR: (160160,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_ps.wav
+
+MFCCs: (13, 307)
+Pitch: (307,)
+Intensity: (156956,)
+Spectral Centroid: (1, 307)
+HNR: (156956,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_01_02_kids-talking_sad.wav
+
+MFCCs: (13, 335)
+Pitch: (335,)
+Intensity: (171371,)
+Spectral Centroid: (1, 335)
+HNR: (171371,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_angry.wav
+
+MFCCs: (13, 388)
+Pitch: (388,)
+Intensity: (198598,)
+Spectral Centroid: (1, 388)
+HNR: (198598,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_disgust.wav
+
+MFCCs: (13, 379)
+Pitch: (379,)
+Intensity: (193794,)
+Spectral Centroid: (1, 379)
+HNR: (193794,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_fear.wav
+
+MFCCs: (13, 373)
+Pitch: (373,)
+Intensity: (190590,)
+Spectral Centroid: (1, 373)
+HNR: (190590,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_happy.wav
+
+MFCCs: (13, 370)
+Pitch: (370,)
+Intensity: (188988,)
+Spectral Centroid: (1, 370)
+HNR: (188988,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_ps.wav
+
+MFCCs: (13, 329)
+Pitch: (329,)
+Intensity: (168168,)
+Spectral Centroid: (1, 329)
+HNR: (168168,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_dogs-sitting_sad.wav
+
+MFCCs: (13, 351)
+Pitch: (351,)
+Intensity: (179380,)
+Spectral Centroid: (1, 351)
+HNR: (179380,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_angry.wav
+
+MFCCs: (13, 385)
+Pitch: (385,)
+Intensity: (196997,)
+Spectral Centroid: (1, 385)
+HNR: (196997,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_disgust.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_fear.wav
+
+MFCCs: (13, 470)
+Pitch: (470,)
+Intensity: (240240,)
+Spectral Centroid: (1, 470)
+HNR: (240240,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_happy.wav
+
+MFCCs: (13, 345)
+Pitch: (345,)
+Intensity: (176176,)
+Spectral Centroid: (1, 345)
+HNR: (176176,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_ps.wav
+
+MFCCs: (13, 323)
+Pitch: (323,)
+Intensity: (164964,)
+Spectral Centroid: (1, 323)
+HNR: (164964,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_01_kids-talking_sad.wav
+
+MFCCs: (13, 357)
+Pitch: (357,)
+Intensity: (182582,)
+Spectral Centroid: (1, 357)
+HNR: (182582,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_angry.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_disgust.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209809,)
+Spectral Centroid: (1, 410)
+HNR: (209809,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_fear.wav
+
+MFCCs: (13, 366)
+Pitch: (366,)
+Intensity: (187388,)
+Spectral Centroid: (1, 366)
+HNR: (187388,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_happy.wav
+
+MFCCs: (13, 370)
+Pitch: (370,)
+Intensity: (188989,)
+Spectral Centroid: (1, 370)
+HNR: (188989,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_ps.wav
+
+MFCCs: (13, 307)
+Pitch: (307,)
+Intensity: (156957,)
+Spectral Centroid: (1, 307)
+HNR: (156957,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_dogs-sitting_sad.wav
+
+MFCCs: (13, 351)
+Pitch: (351,)
+Intensity: (179379,)
+Spectral Centroid: (1, 351)
+HNR: (179379,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_angry.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209810,)
+Spectral Centroid: (1, 410)
+HNR: (209810,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_disgust.wav
+
+MFCCs: (13, 385)
+Pitch: (385,)
+Intensity: (196997,)
+Spectral Centroid: (1, 385)
+HNR: (196997,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_fear.wav
+
+MFCCs: (13, 398)
+Pitch: (398,)
+Intensity: (203403,)
+Spectral Centroid: (1, 398)
+HNR: (203403,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_happy.wav
+
+MFCCs: (13, 341)
+Pitch: (341,)
+Intensity: (174574,)
+Spectral Centroid: (1, 341)
+HNR: (174574,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_ps.wav
+
+MFCCs: (13, 335)
+Pitch: (335,)
+Intensity: (171371,)
+Spectral Centroid: (1, 335)
+HNR: (171371,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_01_02_02_kids-talking_sad.wav
+
+MFCCs: (13, 348)
+Pitch: (348,)
+Intensity: (177778,)
+Spectral Centroid: (1, 348)
+HNR: (177778,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_dogs-sitting_angry.wav
+
+MFCCs: (13, 432)
+Pitch: (432,)
+Intensity: (221021,)
+Spectral Centroid: (1, 432)
+HNR: (221021,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_dogs-sitting_fear.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_dogs-sitting_happy.wav
+
+MFCCs: (13, 407)
+Pitch: (407,)
+Intensity: (208208,)
+Spectral Centroid: (1, 407)
+HNR: (208208,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_dogs-sitting_neutral.wav
+
+MFCCs: (13, 392)
+Pitch: (392,)
+Intensity: (200200,)
+Spectral Centroid: (1, 392)
+HNR: (200200,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_dogs-sitting_sad.wav
+
+MFCCs: (13, 438)
+Pitch: (438,)
+Intensity: (224224,)
+Spectral Centroid: (1, 438)
+HNR: (224224,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_kids-talking_angry.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209809,)
+Spectral Centroid: (1, 410)
+HNR: (209809,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_kids-talking_fear.wav
+
+MFCCs: (13, 413)
+Pitch: (413,)
+Intensity: (211412,)
+Spectral Centroid: (1, 413)
+HNR: (211412,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_kids-talking_happy.wav
+
+MFCCs: (13, 429)
+Pitch: (429,)
+Intensity: (219419,)
+Spectral Centroid: (1, 429)
+HNR: (219419,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_kids-talking_neutral.wav
+
+MFCCs: (13, 398)
+Pitch: (398,)
+Intensity: (203404,)
+Spectral Centroid: (1, 398)
+HNR: (203404,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_01_kids-talking_sad.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_dogs-sitting_angry.wav
+
+MFCCs: (13, 445)
+Pitch: (445,)
+Intensity: (227428,)
+Spectral Centroid: (1, 445)
+HNR: (227428,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_dogs-sitting_fear.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_dogs-sitting_happy.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_dogs-sitting_neutral.wav
+
+MFCCs: (13, 388)
+Pitch: (388,)
+Intensity: (198599,)
+Spectral Centroid: (1, 388)
+HNR: (198599,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_dogs-sitting_sad.wav
+
+MFCCs: (13, 429)
+Pitch: (429,)
+Intensity: (219420,)
+Spectral Centroid: (1, 429)
+HNR: (219420,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_kids-talking_angry.wav
+
+MFCCs: (13, 448)
+Pitch: (448,)
+Intensity: (229029,)
+Spectral Centroid: (1, 448)
+HNR: (229029,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_kids-talking_fear.wav
+
+MFCCs: (13, 407)
+Pitch: (407,)
+Intensity: (208208,)
+Spectral Centroid: (1, 407)
+HNR: (208208,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_kids-talking_happy.wav
+
+MFCCs: (13, 420)
+Pitch: (420,)
+Intensity: (214614,)
+Spectral Centroid: (1, 420)
+HNR: (214614,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_kids-talking_neutral.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205004,)
+Spectral Centroid: (1, 401)
+HNR: (205004,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_01_02_kids-talking_sad.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_dogs-sitting_angry.wav
+
+MFCCs: (13, 467)
+Pitch: (467,)
+Intensity: (238639,)
+Spectral Centroid: (1, 467)
+HNR: (238639,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_dogs-sitting_fear.wav
+
+MFCCs: (13, 392)
+Pitch: (392,)
+Intensity: (200200,)
+Spectral Centroid: (1, 392)
+HNR: (200200,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_dogs-sitting_happy.wav
+
+MFCCs: (13, 463)
+Pitch: (463,)
+Intensity: (237037,)
+Spectral Centroid: (1, 463)
+HNR: (237037,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_dogs-sitting_sad.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205005,)
+Spectral Centroid: (1, 401)
+HNR: (205005,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_kids-talking_angry.wav
+
+MFCCs: (13, 548)
+Pitch: (548,)
+Intensity: (280280,)
+Spectral Centroid: (1, 548)
+HNR: (280280,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_kids-talking_fear.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_kids-talking_happy.wav
+
+MFCCs: (13, 454)
+Pitch: (454,)
+Intensity: (232232,)
+Spectral Centroid: (1, 454)
+HNR: (232232,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_01_kids-talking_sad.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_dogs-sitting_angry.wav
+
+MFCCs: (13, 488)
+Pitch: (488,)
+Intensity: (249850,)
+Spectral Centroid: (1, 488)
+HNR: (249850,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_dogs-sitting_fear.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205004,)
+Spectral Centroid: (1, 401)
+HNR: (205004,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_dogs-sitting_happy.wav
+
+MFCCs: (13, 463)
+Pitch: (463,)
+Intensity: (237037,)
+Spectral Centroid: (1, 463)
+HNR: (237037,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_dogs-sitting_sad.wav
+
+MFCCs: (13, 435)
+Pitch: (435,)
+Intensity: (222622,)
+Spectral Centroid: (1, 435)
+HNR: (222622,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_kids-talking_angry.wav
+
+MFCCs: (13, 498)
+Pitch: (498,)
+Intensity: (254655,)
+Spectral Centroid: (1, 498)
+HNR: (254655,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_kids-talking_fear.wav
+
+MFCCs: (13, 438)
+Pitch: (438,)
+Intensity: (224224,)
+Spectral Centroid: (1, 438)
+HNR: (224224,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_kids-talking_happy.wav
+
+MFCCs: (13, 451)
+Pitch: (451,)
+Intensity: (230630,)
+Spectral Centroid: (1, 451)
+HNR: (230630,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_01_02_02_02_kids-talking_sad.wav
+
+MFCCs: (13, 398)
+Pitch: (398,)
+Intensity: (203403,)
+Spectral Centroid: (1, 398)
+HNR: (203403,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-01-01-01-01_calm.wav
+
+MFCCs: (13, 332)
+Pitch: (332,)
+Intensity: (169769,)
+Spectral Centroid: (1, 332)
+HNR: (169769,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-01-01-02-01_calm.wav
+
+MFCCs: (13, 338)
+Pitch: (338,)
+Intensity: (172972,)
+Spectral Centroid: (1, 338)
+HNR: (172972,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-01-02-01-01_calm.wav
+
+MFCCs: (13, 329)
+Pitch: (329,)
+Intensity: (168168,)
+Spectral Centroid: (1, 329)
+HNR: (168168,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-01-02-02-01_calm.wav
+
+MFCCs: (13, 326)
+Pitch: (326,)
+Intensity: (166567,)
+Spectral Centroid: (1, 326)
+HNR: (166567,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-02-01-01-01_calm.wav
+
+MFCCs: (13, 348)
+Pitch: (348,)
+Intensity: (177778,)
+Spectral Centroid: (1, 348)
+HNR: (177778,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-02-01-02-01_calm.wav
+
+MFCCs: (13, 376)
+Pitch: (376,)
+Intensity: (192192,)
+Spectral Centroid: (1, 376)
+HNR: (192192,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-02-02-01-01_calm.wav
+
+MFCCs: (13, 395)
+Pitch: (395,)
+Intensity: (201802,)
+Spectral Centroid: (1, 395)
+HNR: (201802,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-01-02-02-02-02-01_calm.wav
+
+MFCCs: (13, 376)
+Pitch: (376,)
+Intensity: (192192,)
+Spectral Centroid: (1, 376)
+HNR: (192192,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-01-01-01-01-01_neutral.wav
+
+MFCCs: (13, 398)
+Pitch: (398,)
+Intensity: (203404,)
+Spectral Centroid: (1, 398)
+HNR: (203404,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-01-01-01-02-01_neutral.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205004,)
+Spectral Centroid: (1, 401)
+HNR: (205004,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-01-01-02-01-01_neutral.wav
+
+MFCCs: (13, 392)
+Pitch: (392,)
+Intensity: (200200,)
+Spectral Centroid: (1, 392)
+HNR: (200200,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-01-01-02-02-01_neutral.wav
+
+MFCCs: (13, 388)
+Pitch: (388,)
+Intensity: (198599,)
+Spectral Centroid: (1, 388)
+HNR: (198599,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-01-01-01-01_calm.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209810,)
+Spectral Centroid: (1, 410)
+HNR: (209810,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-01-01-02-01_calm.wav
+
+MFCCs: (13, 413)
+Pitch: (413,)
+Intensity: (211412,)
+Spectral Centroid: (1, 413)
+HNR: (211412,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-01-02-01-01_calm.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-01-02-02-01_calm.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-02-01-01-01_calm.wav
+
+MFCCs: (13, 442)
+Pitch: (442,)
+Intensity: (225825,)
+Spectral Centroid: (1, 442)
+HNR: (225825,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-02-01-02-01_calm.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-02-02-01-01_calm.wav
+
+MFCCs: (13, 445)
+Pitch: (445,)
+Intensity: (227427,)
+Spectral Centroid: (1, 445)
+HNR: (227427,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-02-02-02-02-01_calm.wav
+
+MFCCs: (13, 463)
+Pitch: (463,)
+Intensity: (237037,)
+Spectral Centroid: (1, 463)
+HNR: (237037,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-01-01-01-01_happy.wav
+
+MFCCs: (13, 429)
+Pitch: (429,)
+Intensity: (219419,)
+Spectral Centroid: (1, 429)
+HNR: (219419,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-01-01-02-01_happy.wav
+
+MFCCs: (13, 420)
+Pitch: (420,)
+Intensity: (214614,)
+Spectral Centroid: (1, 420)
+HNR: (214614,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-01-02-01-01_happy.wav
+
+MFCCs: (13, 407)
+Pitch: (407,)
+Intensity: (208208,)
+Spectral Centroid: (1, 407)
+HNR: (208208,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-01-02-02-01_happy.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-02-01-01-01_happy.wav
+
+MFCCs: (13, 454)
+Pitch: (454,)
+Intensity: (232232,)
+Spectral Centroid: (1, 454)
+HNR: (232232,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-02-01-02-01_happy.wav
+
+MFCCs: (13, 451)
+Pitch: (451,)
+Intensity: (230630,)
+Spectral Centroid: (1, 451)
+HNR: (230630,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-02-02-01-01_happy.wav
+
+MFCCs: (13, 463)
+Pitch: (463,)
+Intensity: (237037,)
+Spectral Centroid: (1, 463)
+HNR: (237037,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-03-02-02-02-01_happy.wav
+
+MFCCs: (13, 463)
+Pitch: (463,)
+Intensity: (237037,)
+Spectral Centroid: (1, 463)
+HNR: (237037,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-01-01-01-01_sad.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-01-01-02-01_sad.wav
+
+MFCCs: (13, 423)
+Pitch: (423,)
+Intensity: (216216,)
+Spectral Centroid: (1, 423)
+HNR: (216216,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-01-02-01-01_sad.wav
+
+MFCCs: (13, 438)
+Pitch: (438,)
+Intensity: (224224,)
+Spectral Centroid: (1, 438)
+HNR: (224224,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-01-02-02-01_sad.wav
+
+MFCCs: (13, 429)
+Pitch: (429,)
+Intensity: (219420,)
+Spectral Centroid: (1, 429)
+HNR: (219420,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-02-01-01-01_sad.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-02-01-02-01_sad.wav
+
+MFCCs: (13, 398)
+Pitch: (398,)
+Intensity: (203403,)
+Spectral Centroid: (1, 398)
+HNR: (203403,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-02-02-01-01_sad.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205005,)
+Spectral Centroid: (1, 401)
+HNR: (205005,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-04-02-02-02-01_sad.wav
+
+MFCCs: (13, 435)
+Pitch: (435,)
+Intensity: (222622,)
+Spectral Centroid: (1, 435)
+HNR: (222622,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-01-01-01-01_angry.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209809,)
+Spectral Centroid: (1, 410)
+HNR: (209809,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-01-01-02-01_angry.wav
+
+MFCCs: (13, 448)
+Pitch: (448,)
+Intensity: (229029,)
+Spectral Centroid: (1, 448)
+HNR: (229029,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-01-02-01-01_angry.wav
+
+MFCCs: (13, 432)
+Pitch: (432,)
+Intensity: (221021,)
+Spectral Centroid: (1, 432)
+HNR: (221021,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-01-02-02-01_angry.wav
+
+MFCCs: (13, 445)
+Pitch: (445,)
+Intensity: (227428,)
+Spectral Centroid: (1, 445)
+HNR: (227428,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-02-01-01-01_angry.wav
+
+MFCCs: (13, 548)
+Pitch: (548,)
+Intensity: (280280,)
+Spectral Centroid: (1, 548)
+HNR: (280280,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-02-01-02-01_angry.wav
+
+MFCCs: (13, 498)
+Pitch: (498,)
+Intensity: (254655,)
+Spectral Centroid: (1, 498)
+HNR: (254655,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-02-02-01-01_angry.wav
+
+MFCCs: (13, 467)
+Pitch: (467,)
+Intensity: (238639,)
+Spectral Centroid: (1, 467)
+HNR: (238639,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-05-02-02-02-01_angry.wav
+
+MFCCs: (13, 488)
+Pitch: (488,)
+Intensity: (249850,)
+Spectral Centroid: (1, 488)
+HNR: (249850,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-01-01-01-01_fear.wav
+
+MFCCs: (13, 413)
+Pitch: (413,)
+Intensity: (211412,)
+Spectral Centroid: (1, 413)
+HNR: (211412,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-01-01-02-01_fear.wav
+
+MFCCs: (13, 407)
+Pitch: (407,)
+Intensity: (208208,)
+Spectral Centroid: (1, 407)
+HNR: (208208,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-01-02-01-01_fear.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-01-02-02-01_fear.wav
+
+MFCCs: (13, 417)
+Pitch: (417,)
+Intensity: (213013,)
+Spectral Centroid: (1, 417)
+HNR: (213013,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-02-01-01-01_fear.wav
+
+MFCCs: (13, 404)
+Pitch: (404,)
+Intensity: (206606,)
+Spectral Centroid: (1, 404)
+HNR: (206606,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-02-01-02-01_fear.wav
+
+MFCCs: (13, 438)
+Pitch: (438,)
+Intensity: (224224,)
+Spectral Centroid: (1, 438)
+HNR: (224224,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-02-02-01-01_fear.wav
+
+MFCCs: (13, 392)
+Pitch: (392,)
+Intensity: (200200,)
+Spectral Centroid: (1, 392)
+HNR: (200200,)
+Sampling Rate: 48000
+
+Features for output1\cleaned_03-02-06-02-02-02-01_fear.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205004,)
+Spectral Centroid: (1, 401)
+HNR: (205004,)
+Sampling Rate: 48000
+

@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_02_dogs-sitting_neutral.wav
+
+MFCCs: (13, 298)
+Pitch: (298,)
+Intensity: (152152,)
+Spectral Centroid: (1, 298)
+HNR: (152152,)
+Sampling Rate: 48000
+

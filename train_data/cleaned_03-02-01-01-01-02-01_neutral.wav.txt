@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-02-01-01-01-02-01_neutral.wav
+
+MFCCs: (13, 401)
+Pitch: (401,)
+Intensity: (205004,)
+Spectral Centroid: (1, 401)
+HNR: (205004,)
+Sampling Rate: 48000
+

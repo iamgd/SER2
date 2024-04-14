@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_01_dogs-sitting_disgust.wav
+
+MFCCs: (13, 366)
+Pitch: (366,)
+Intensity: (187387,)
+Spectral Centroid: (1, 366)
+HNR: (187387,)
+Sampling Rate: 48000
+

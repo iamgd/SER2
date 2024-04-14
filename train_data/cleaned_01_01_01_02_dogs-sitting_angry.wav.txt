@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_02_dogs-sitting_angry.wav
+
+MFCCs: (13, 351)
+Pitch: (351,)
+Intensity: (179379,)
+Spectral Centroid: (1, 351)
+HNR: (179379,)
+Sampling Rate: 48000
+

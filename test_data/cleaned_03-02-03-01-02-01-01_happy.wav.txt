@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-02-03-01-02-01-01_happy.wav
+
+MFCCs: (13, 407)
+Pitch: (407,)
+Intensity: (208208,)
+Spectral Centroid: (1, 407)
+HNR: (208208,)
+Sampling Rate: 48000
+

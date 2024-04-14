@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_02_01_02_kids-talking_angry.wav
+
+MFCCs: (13, 448)
+Pitch: (448,)
+Intensity: (229029,)
+Spectral Centroid: (1, 448)
+HNR: (229029,)
+Sampling Rate: 48000
+

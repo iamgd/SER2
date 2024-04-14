@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-02-06-01-01-01-01_fear.wav
+
+MFCCs: (13, 413)
+Pitch: (413,)
+Intensity: (211412,)
+Spectral Centroid: (1, 413)
+HNR: (211412,)
+Sampling Rate: 48000
+

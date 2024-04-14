@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_01_kids-talking_disgust.wav
+
+MFCCs: (13, 363)
+Pitch: (363,)
+Intensity: (185785,)
+Spectral Centroid: (1, 363)
+HNR: (185785,)
+Sampling Rate: 48000
+

@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-02-05-01-01-01-01_angry.wav
+
+MFCCs: (13, 410)
+Pitch: (410,)
+Intensity: (209809,)
+Spectral Centroid: (1, 410)
+HNR: (209809,)
+Sampling Rate: 48000
+

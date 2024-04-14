@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_01_01_kids-talking_sad.wav
+
+MFCCs: (13, 360)
+Pitch: (360,)
+Intensity: (184184,)
+Spectral Centroid: (1, 360)
+HNR: (184184,)
+Sampling Rate: 48000
+

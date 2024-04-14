@@ -1,0 +1,9 @@
+Features for output1\cleaned_03-01-02-01-01-01-01_calm.wav
+
+MFCCs: (13, 332)
+Pitch: (332,)
+Intensity: (169769,)
+Spectral Centroid: (1, 332)
+HNR: (169769,)
+Sampling Rate: 48000
+

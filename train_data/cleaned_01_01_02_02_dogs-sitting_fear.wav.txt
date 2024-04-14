@@ -1,0 +1,9 @@
+Features for output1\cleaned_01_01_02_02_dogs-sitting_fear.wav
+
+MFCCs: (13, 366)
+Pitch: (366,)
+Intensity: (187388,)
+Spectral Centroid: (1, 366)
+HNR: (187388,)
+Sampling Rate: 48000
+
